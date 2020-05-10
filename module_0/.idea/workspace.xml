@@ -18,7 +18,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1bhrCKLIT7Gw3HsWM3VtRZHmYLd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +53,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module_0" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
       <module name="module_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,26 +93,34 @@
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
     <state x="2014" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.5120.1400@0.0.5120.1400" timestamp="1589095133723" />
+    <state x="349" y="298" key="#main" timestamp="1589098814473">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="349" y="298" key="#main/0.0.5120.1400@0.0.5120.1400" timestamp="1589098814473" />
+    <state x="349" y="298" key="#module_0" timestamp="1589098774956">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="349" y="298" key="#module_0/0.0.5120.1400@0.0.5120.1400" timestamp="1589098774956" />
     <state x="2340" y="458" key="FileChooserDialogImpl" timestamp="1589095117909">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
     <state x="2340" y="458" key="FileChooserDialogImpl/0.0.5120.1400@0.0.5120.1400" timestamp="1589095117909" />
-    <state width="1256" height="400" key="GridCell.Tab.0.bottom" timestamp="1589095948869">
+    <state width="2536" height="400" key="GridCell.Tab.0.bottom" timestamp="1589100471367">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state width="1256" height="400" key="GridCell.Tab.0.bottom/0.0.5120.1400@0.0.5120.1400" timestamp="1589095948869" />
-    <state width="1256" height="400" key="GridCell.Tab.0.center" timestamp="1589095948869">
+    <state width="2536" height="400" key="GridCell.Tab.0.bottom/0.0.5120.1400@0.0.5120.1400" timestamp="1589100471367" />
+    <state width="2536" height="400" key="GridCell.Tab.0.center" timestamp="1589100471366">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state width="1256" height="400" key="GridCell.Tab.0.center/0.0.5120.1400@0.0.5120.1400" timestamp="1589095948869" />
-    <state width="1256" height="400" key="GridCell.Tab.0.left" timestamp="1589095948869">
+    <state width="2536" height="400" key="GridCell.Tab.0.center/0.0.5120.1400@0.0.5120.1400" timestamp="1589100471366" />
+    <state width="2536" height="400" key="GridCell.Tab.0.left" timestamp="1589100471365">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state width="1256" height="400" key="GridCell.Tab.0.left/0.0.5120.1400@0.0.5120.1400" timestamp="1589095948869" />
-    <state width="1256" height="400" key="GridCell.Tab.0.right" timestamp="1589095948869">
+    <state width="2536" height="400" key="GridCell.Tab.0.left/0.0.5120.1400@0.0.5120.1400" timestamp="1589100471365" />
+    <state width="2536" height="400" key="GridCell.Tab.0.right" timestamp="1589100471367">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
-    <state width="1256" height="400" key="GridCell.Tab.0.right/0.0.5120.1400@0.0.5120.1400" timestamp="1589095948869" />
+    <state width="2536" height="400" key="GridCell.Tab.0.right/0.0.5120.1400@0.0.5120.1400" timestamp="1589100471367" />
     <state x="2061" y="348" key="SettingsEditor" timestamp="1589095219264">
       <screen x="0" y="0" width="5120" height="1400" />
     </state>
